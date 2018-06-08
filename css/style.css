@@ -1,0 +1,62 @@
+h1{
+    margin: 0;
+    color: white; 
+    text-align: center;
+    text-transform: uppercase;
+}
+.container{    
+	background: yellow;
+    height: 600px;
+    width: 900px;
+    margin: 0 auto;
+}
+.main{
+	width: 100%;
+    height: 500px;
+    background: black;
+    overflow: hidden;
+}
+.left{    
+	width: 20%;
+    height: 100%;
+    background: red;
+    float: left;
+}
+.right{
+	width: 80%;
+    height: 100%;
+    background: white;
+    float: left;
+}
+.upper{
+	height: 20%;
+    width: 100%;
+    background: #9831CC;
+}
+.middle{
+	width: 100%;
+    height: 40%;
+    background: bisque;
+}
+.intro{
+	width: 50%;
+    height: 100%;
+    background: green;
+    float: left;
+}
+.success{
+	width: 50%;
+    height: 100%;
+    background: #d8d829;
+    float: left;
+}
+.down{
+	width: 100%;
+    height: 40%;
+    background: #FF00FE;
+}
+.footer{
+	width: 100%;
+    height: 100px;
+    background: #7CFC02;
+}
